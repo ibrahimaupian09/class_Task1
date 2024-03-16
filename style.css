@@ -1,0 +1,32 @@
+div#container{
+    width: 30%;
+    height: 340px;
+    background-color:gray;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+h1{
+    font-weight: 2em ;
+    color: Black;
+    font-size: xx-large;
+    padding-top: 10px;
+}
+.a{
+    
+    border-radius: 15px;
+    width: 65%;
+    height: 36px;
+}
+.a:hover{
+    background-color: rgb(199, 147, 147);
+}
+#btn{
+    width: 65%;
+    height: 38px;
+    border-radius: 15px;
+}
+#btn:hover{
+    background-color: rgb(199, 147, 147);
+
+}
